@@ -21,7 +21,7 @@ Some things about me:
 
 
 
-#### Redes Sóciais / Social networks :
+#### Redes Sociais / Social networks :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-delfino-4569a553/)](https://www.linkedin.com/in/nathanael-delfino-4569a553/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanaeldelfino/)](https://www.instagram.com/nathanaeldelfino/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/nathanael.delfino/)](https://www.facebook.com/nathanael.delfino)
