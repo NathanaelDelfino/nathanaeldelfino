@@ -1,16 +1,20 @@
-### Hi there 👋
+### Bem-Vindo! 🇧🇷
 
-<!--
-**NathanaelDelfino/nathanaeldelfino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Algumas coisas sobre mim :
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho com C#, VB6.
+- 🌱 Estou estudando sobre Arquitetura de Software, C#, Node.JS
+- :books: Cursando Engenharia de Software 
+- :muscle: Especialista em VB6
+- ⚡ Conhecimento nunca é demais!
+- 💬 Vamos trocar ideias sobre desenvolvimento? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Welcome! 🇺🇸
+Some things about me:
+
+- 🔭 Currently working with C #, VB6.
+- 🌱 I'm studying Software Architecture, C#, Node.JS
+-: books: Studying Software Engineering
+-: muscle: VB6 Specialist
+- ⚡ Knowledge is never too much!
+- 💬 Shall we exchange ideas about development?
