@@ -7,7 +7,7 @@ Algumas coisas sobre mim :
 - :books: Cursando Engenharia de Software 
 - :muscle: Especialista em VB6
 - ⚡ Conhecimento nunca é demais!
-- 💬 Vamos trocar ideias sobre desenvolvimento? 
+- 💬 Bora aprender juntos? 
 
 ### Welcome! 🇺🇸
 Some things about me:
@@ -17,4 +17,4 @@ Some things about me:
 - :books: Studying Software Engineering
 - :muscle: VB6 Specialist
 - ⚡ Knowledge is never too much!
-- 💬 Shall we exchange ideas about development?
+- 💬 Let's learn together?
