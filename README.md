@@ -20,6 +20,9 @@ Some things about me:
 - 💬 Let's learn together?
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathanaeldelfino&count_private=true&show_icons=true&title_color=000000&icon_color=000000&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeldelfino&layout=compact&show_icons=true&title_color=000000&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Redes Sociais / Social networks :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-delfino-4569a553/)](https://www.linkedin.com/in/nathanael-delfino-4569a553/)
