@@ -1,3 +1,4 @@
+<img src="https://github.com/NathanaelDelfino/nathanaeldelfino.github.io/blob/master/images/laptop.png?raw=true" min-width="300px" max-width="500px" width="500px" align="right" alt="Laptop">
 ### Bem-Vindo! 🇧🇷
 
 Algumas coisas sobre mim :
