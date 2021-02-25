@@ -1,4 +1,5 @@
 <img src="https://github.com/NathanaelDelfino/nathanaeldelfino.github.io/blob/master/images/laptop.png?raw=true" min-width="300px" max-width="500px" width="500px" align="right" alt="Laptop">
+
 ### Bem-Vindo! 🇧🇷
 
 Algumas coisas sobre mim :
@@ -11,6 +12,7 @@ Algumas coisas sobre mim :
 - 💬 Bora aprender juntos? 
 
 ### Welcome! 🇺🇸
+
 Some things about me:
 
 - 🔭 Currently working with C #, VB6.
@@ -30,3 +32,4 @@ Some things about me:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanaeldelfino/)](https://www.instagram.com/nathanaeldelfino/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/nathanael.delfino/)](https://www.facebook.com/nathanael.delfino)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/NathanDelfino_)](https://twitter.com/NathanDelfino_)
+z
