@@ -33,3 +33,12 @@ Some things about me:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/nathanael.delfino/)](https://www.facebook.com/nathanael.delfino)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/NathanDelfino_)](https://twitter.com/NathanDelfino_)
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<div align="center">
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=nathanaeldelfino&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+ </div>
