@@ -1,44 +1,77 @@
-<img src="https://github.com/NathanaelDelfino/nathanaeldelfino.github.io/blob/master/images/laptop.png?raw=true" min-width="300px" max-width="500px" width="500px" align="right" alt="Laptop">
+# Bem-Vindo! 🚀
 
-### Bem-Vindo! 🇧🇷
+<img src="https://github.com/NathanaelDelfino/nathanaeldelfino.github.io/blob/master/images/laptop.png?raw=true" alt="Laptop" width="400px" align="right">
 
-Algumas coisas sobre mim :
+## Sobre Mim
 
-- 🔭 Atualmente trabalho com C#, VB6.
-- 🌱 Estou estudando sobre Arquitetura de Software, Angular, C#, Node.JS e Flutter
-- :books: Cursando Engenharia de Software 
-- :muscle: Especialista em VB6
-- ⚡ Conhecimento nunca é demais!
-- 💬 Bora aprender juntos? 
+Olá! Meu nome é Nathanael, sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atualmente, estou focado no desenvolvimento de APIs com ASP.NET e buscando aprimorar minhas habilidades em diversas áreas. Sou graduado em Engenharia de Software. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimentos com a comunidade. Bora aprender juntos?
 
-### Welcome! 🇺🇸
+## Habilidades
 
-Some things about me:
+### Mobile
 
-- 🔭 Currently working with C #, VB6.
-- 🌱 I'm studying Software Architecture, Angular, C#, Node.JS and Flutter
-- :books: Studying Software Engineering
-- :muscle: VB6 Specialist
-- ⚡ Knowledge is never too much!
-- 💬 Let's learn together?
+- Flutter
+- React Native (Estudando)
 
+### Frontend
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathanaeldelfino&count_private=true&show_icons=true&title_color=000000&icon_color=000000&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeldelfino&layout=compact&show_icons=true&title_color=000000&icon_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+- React (Estudando)
+- Next.JS (Estudando)
+- NextUI (Estudando)
 
+### Backend
 
-#### Redes Sociais / Social networks :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-delfino-4569a553/)](https://www.linkedin.com/in/nathanael-delfino-4569a553/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanaeldelfino/)](https://www.instagram.com/nathanaeldelfino/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/nathanael.delfino/)](https://www.facebook.com/nathanael.delfino)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/NathanDelfino_)](https://twitter.com/NathanDelfino_)
+- Asp.net
 
-</br>
-</br>
-</br>
-</br>
-</br>
+### Banco de Dados
+
+- MySQL
+- Firebase
+- Firebird
+- Mongo
+
+### Controle de Versão
+
+- Git
+- Github
+
+### IDEs
+
+- Visual Studio Code
+- Visual Studio Community
+
+### Prototipação
+
+- AdobeXD
+- Figma
+
+### Nuvem
+
+- Microsoft Azure
+- AWS
+- Google Cloud
+
+### IaC (Infrastructure as Code)
+
+- Bicep
+
+### Ferramentas Full Stack
+
+- VB6
+
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathanaeldelfino&count_private=true&show_icons=true&theme=dark&hide_border=true)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaeldelfino&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Redes Sociais
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-delfino-4569a553/)](https://www.linkedin.com/in/nathanael-delfino-4569a553/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nathanaeldelfino/)](https://www.instagram.com/nathanaeldelfino/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nathanael.delfino/)](https://www.facebook.com/nathanael.delfino)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/NathanDelfino_)](https://twitter.com/NathanDelfino_)
 
 <div align="center">
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=nathanaeldelfino&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
- </div>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nathanaeldelfino&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD" />
+</div>
