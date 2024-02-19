@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Nathanael, sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atualmente, estou focado no desenvolvimento de APIs com ASP.NET e buscando aprimorar minhas habilidades em diversas áreas. Sou graduado em Engenharia de Software. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimentos com a comunidade. Bora aprender juntos?
+Olá! Meu nome é Nathanael, sou um entusiasta da tecnologia apaixonado por desenvolvimento de software. Atualmente, estou focado no desenvolvimento multiplataforma e buscando aprimorar minhas habilidades em diversas áreas. Sou graduado em Engenharia de Software. Estou sempre em busca de aprender novas tecnologias e compartilhar conhecimentos com a comunidade. Bora aprender juntos?
 
 ## Habilidades
 
