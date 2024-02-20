@@ -40,11 +40,6 @@ Olá! Meu nome é Nathanael, sou um entusiasta da tecnologia apaixonado por dese
 - Visual Studio Code
 - Visual Studio Community
 
-### Prototipação
-
-- AdobeXD
-- Figma
-
 ### Nuvem
 
 - Microsoft Azure
